@@ -3,7 +3,7 @@
 A meme-os config (for now) based on fedora linux 44, using the style of the 2026 dropper game sensory overload by pancake studios
 
 
-Installation guide
+## Installation guide
 
 1.You need to have a fedora linux installation with kde installed
 
@@ -38,11 +38,11 @@ Installation guide
 16.Right click on the "soswall.png" file inside "wallapers" and select the "set as wallpaper" option and select "both" from the sub menu
 
 
-#Note
+## Note
 
 If you are on the discord server, you might know that this is not all of it. I will soon add the other modifications soon and maybe even automate it a bit, while also providing support images🙂
 
 
-#Support
+## Support
 
 Well...For now at least, there are not many things that could go wrong.
