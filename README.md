@@ -1,8 +1,8 @@
 # sensory-overload-os
 A meme-os config (for now) based on fedora linux 44, using the style of the 2026 dropper game sensory overload by pancake studios
 
-#Installation guide
-1.You need to have a fedora linux installation with kde installed
+\n#Installation guide
+\n1.You need to have a fedora linux installation with kde installed
 2.download the "utterly round" kde plasma theme by Himdeck (https://store.kde.org/p/1901768) as it will be used for the plasma style
 3. apply the plasma style
 4.Install the rpm package for the darkly theme by bali10050 https://github.com/Bali10050/Darkly, as it is needed for the application style
