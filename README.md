@@ -3,7 +3,7 @@
 A meme-os config (for now) based on fedora linux 44, using the style of the 2026 dropper game sensory overload by pancake studios
 
 
-#Installation guide
+Installation guide
 
 1.You need to have a fedora linux installation with kde installed
 
