@@ -16,11 +16,13 @@ used for the plasma style and the darkly theme by bali10050 https://github.com/B
 
 5.Type "cd ~/Downloads/sensory-overload-os-main" in order to go to the downloaded folder
 
-6.Type "./apply-config.sh" in order to execute it
+6.Type "chmod +x apply-config.sh" to  turn it into an executable in case it isn't
 
-7.Accept if it asks for permission and wait
+7.Type "./apply-config.sh" in order to execute it
 
-8.Congratulations, the modifications should now be applied onto your system!!!
+8.Accept if it asks for permission and wait
+
+9.Congratulations, the modifications should now be applied onto your system!!!
 
 
 ## Support
