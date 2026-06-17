@@ -19,7 +19,6 @@ chmod +x icon.sh
 plasmashell --replace & disown
 echo Applied themes!
 mkdir -p ~/.config/fastfetch
-fastfetch --gen-config-full
 sudo cp ~/Downloads/sensory-overload-os-main/misc ~/Pictures
 sudo cp -f ~/Downloads/sensory-overload-os-main/config.jsonc ~/.config/fastfetch/
 echo Added custom fastfetch config!
